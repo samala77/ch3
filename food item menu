@@ -27,6 +27,6 @@ int main()
  }
  else
  {
-     printf("invalid input\n");
+     printf("Invalid Input\n");
  }
 }
